@@ -1,0 +1,32 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+*.sqlite
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+.env
+*.env
+
+# Data
+data/
+*.csv
+*.json
+
+# Logs
+*.log
+
+# Miscellaneous
+*.tmp
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
